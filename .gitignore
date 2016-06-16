@@ -1,3 +1,8 @@
+.idea/*
+!.idea/runConfigurations
+.idea/runConfigurations/*
+!.idea/runConfigurations/Xenex_API_Run.xml
+*.iml
 *.class
 
 # Mobile Tools for Java (J2ME)
